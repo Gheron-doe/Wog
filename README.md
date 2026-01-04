@@ -1,2 +1,2 @@
 # Wog
-Repo voor Werkomgeving les
+Repo voor Werk-Omgeving
